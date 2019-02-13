@@ -9,8 +9,8 @@ body {
 }
 
 h1 {
-    font-family: 'ZCOOL KuaiLe', cursive;
-      letter-spacing: 1px;
+  font-family: 'ZCOOL KuaiLe', cursive;
+  letter-spacing: 1px;
   display: inline;
   background-color: #ff0;
   color: #ff00ff;
@@ -28,12 +28,12 @@ h2 {
 }
 
 p, ul, ol {
-
   color: red;
   margin-block-start: -70px;
   font-family: myFont;
   margin-inline-start: 365px;
   font-size: 15px;
+  line-height: 18pt;
 }
 
 ul {
